@@ -1,4 +1,3 @@
-#~~Yashu gupta~~~~~~~~
 import pandas as pd
 from sklearn import ensemble
 import numpy as np
